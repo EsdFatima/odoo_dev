@@ -52,4 +52,3 @@ This module is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note:** This README provides a high-level overview of the **Travel_Contact** module. Detailed instructions and usage guidelines can be found within the Odoo interface and documentation.

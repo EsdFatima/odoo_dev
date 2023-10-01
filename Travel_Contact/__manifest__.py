@@ -15,6 +15,7 @@
         'views/menu.xml',
         'views/travel.xml',
         'views/partner.xml',
+        'views/travel_list.xml',
     ],
     'demo': [
         'demo/demo_data.xml',
