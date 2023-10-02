@@ -1,6 +1,6 @@
 {
     'name': 'Contact_Travel',
-    'version': '1.0',
+    'version': '16.0',
     'author': 'ESSID Fatima Zahraa',
     'category': 'Custom Modules',
     'license': 'LGPL-3',
