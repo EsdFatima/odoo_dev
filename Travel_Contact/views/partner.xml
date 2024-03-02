@@ -4,13 +4,9 @@
 
         <!-- Define a new record  -->
         <record id="travel_contact_smart_button" model="ir.ui.view">
-            <!-- Specify the name of the view -->
             <field name="name">travel.view.buttons</field>
-            <!-- Define the model to which this view applies -->
             <field name="model">res.partner</field>
-            <!-- Reference the view to inherit from, in this case, "base.view_partner_form" -->
             <field name="inherit_id" ref="base.view_partner_form"/>
-            <!-- Define the view's structure using XML -->
             <field name="arch" type="xml">
                 <!-- Make the following fields invisible in the view -->
                 <field name="vat" position="attributes">

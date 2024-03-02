@@ -46,6 +46,7 @@
 
     <menuitem id="products_menu"
               name="Products"
+              web_icon="itex_product,static/description/icon.png"
               action="product_action"
               sequence="10"/>
 </odoo>
